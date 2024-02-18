@@ -139,3 +139,36 @@ header {
     text-align: right;
     padding: 10px 30px 75px 0;
 }
+
+/* CTA BOTTOM */
+
+#cta {
+    padding: 75px 
+}
+
+#cta-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
+    height: 150px;
+    background-color: #3882F6;
+    padding: 20px 120px;
+    border-radius: 7px;
+    color: white;
+    font-family: sans-serif;
+    line-height: 5px;
+    font-size: 18px;
+}
+
+#cta-btn {
+    height: 40px;
+    width: 120px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px
+}
